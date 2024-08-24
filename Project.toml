@@ -1,0 +1,7 @@
+name = "DN3"
+uuid = "2201983e-1ee7-4d3d-9b0f-ed7797a132b0"
+authors = ["TineCrnugelj <tine.crnugelj@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
